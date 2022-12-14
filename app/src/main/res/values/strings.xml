@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApplicationProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upcomingMovie">UpComing</string>
+    <string name="popularMovie">Popular</string>
+    <string name="favourite">favourite</string>
+
+</resources>
